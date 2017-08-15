@@ -1,4 +1,4 @@
-import Html exposing (Html, Attribute, button, div, text, br, input, select, option, p, ul, li)
+import Html exposing (..)
 import Html.Attributes exposing (..)
 import Html.Events exposing (onClick, onInput)
 
